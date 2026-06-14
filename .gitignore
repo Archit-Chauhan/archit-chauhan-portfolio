@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vite
+
+# Local tooling / design scratch (not part of the app)
+.claude
+.remember
+mockups
+DESIGN-notes.local.md
+stitch_arc.builds_archit_chauhan_portfolio
+stitch_arc.builds_archit_chauhan_portfolio.zip
